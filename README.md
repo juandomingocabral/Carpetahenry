@@ -1,2 +1,1 @@
-# Carpetahenry
-Tarea del modulo 2
+Este proyecto corresponde a una terea del modulo 2
